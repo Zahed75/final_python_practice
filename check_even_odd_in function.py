@@ -11,6 +11,6 @@ while starting < 100:
         print("Starting number:", even)
     else:
         print("Odd")
-starting = starting + 1
+    starting = starting + 1
 
 print("Finished")
